@@ -197,7 +197,10 @@ function About(){
         <div className="aboutMe">
             <h3>I am Shamim Shakir</h3>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi delectus dicta ducimus eveniet modi nostrum numquam pariatur quo! Ab corporis dolores error magnam modi perspiciatis placeat soluta! Aliquid dolorum ducimus et officiis, placeat repellendus.
+               For 3 long years, I have worked in 2 different companies where I had to use PHP. 
+                I have worked on many websites and software modules while working there but Javascript has always been in a special of my mind. For this reason, 
+                I want to learn NodeJS and do something great. Though I don't have any professional experience of using NodJS, 
+                I want to be a part of it by pouring every bit of me in it and want keep progressing.
             </p>
             <div className="socialInfo">
                 <h4>Find me</h4>
