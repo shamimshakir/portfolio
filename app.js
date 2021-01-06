@@ -214,6 +214,7 @@ function About(){
                     <li><a target="_blank" href="https://leetcode.com/shamimshakir/"><img src="images/LeetCode_logo_black.png" alt=""/></a></li>
                 </ul>
             </div>
+            <a className="resumeBtn" href="https://shamimshakir.github.io/resume/">My Resume</a>
         </div>
     </div>
 }
