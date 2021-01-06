@@ -80,6 +80,13 @@ const allProjects = [
         image: "react_fcc_forum.png",
         link: "https://shamimshakir.github.io/javascript-projects/fcc_forum_homepage/",
         categories: ["React js", "fcc challenge"]
+    },
+    {
+        id: 10,
+        name: "Wikipedia Viewer",
+        image: "wikipedia_viwer.png",
+        link: "https://shamimshakir.github.io/javascript-projects/wikipedia_viewer.html",
+        categories: ["Javascript", "fcc challenge"]
     }
 ]
 const projectCategories = allProjects.reduce(
