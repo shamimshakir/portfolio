@@ -297,3 +297,13 @@ a.singleWorkProject :hover.singleWorkProjectInfo p {
     color: #636363;
     line-height: 22px;
 }
+a.resumeBtn {
+    background: #2f73a9;
+    display: inline-block;
+    padding: 8px 20px;
+    margin-top: 20px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 28px;
+    border-radius: 3px;
+}
