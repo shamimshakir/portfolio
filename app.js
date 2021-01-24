@@ -87,6 +87,27 @@ const allProjects = [
         image: "wikipedia_viwer.png",
         link: "https://shamimshakir.github.io/javascript-projects/wikipedia_viewer.html",
         categories: ["Javascript", "fcc challenge"]
+    },
+    {
+        id: 11,
+        name: "Ready Shop",
+        image: "readyshop.png",
+        link: "#",
+        categories: ["php mysql"]
+    },
+    {
+        id: 12,
+        name: "Stealth Finance",
+        image: "stealth.png",
+        link: "https://staging.techsolutionsbd.com/stealth/",
+        categories: ["php mysql"]
+    },
+    {
+        id: 13,
+        name: "Women albd",
+        image: "women-albd.png",
+        link: "https://women-albd.org/",
+        categories: ["php mysql"]
     }
 ]
 const projectCategories = allProjects.reduce(
