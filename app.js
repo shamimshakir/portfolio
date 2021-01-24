@@ -92,7 +92,7 @@ const allProjects = [
         id: 11,
         name: "Ready Shop",
         image: "readyshop.png",
-        link: "#",
+        link: "https://raw.githubusercontent.com/shamimshakir/portfolio/main/images/readyshop.png",
         categories: ["php mysql"]
     },
     {
