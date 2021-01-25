@@ -90,7 +90,7 @@ const allProjects = [
     },
     {
         id: 11,
-        name: "Ready Shop",
+        name: "Ready Shop Back-End",
         image: "readyshop.png",
         link: "https://raw.githubusercontent.com/shamimshakir/portfolio/main/images/readyshop.png",
         categories: ["php mysql"]
