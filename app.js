@@ -113,7 +113,7 @@ const allProjects = [
         id: 14,
         name: "Readyshop portfolio",
         image: "readycommerce.cloud.png",
-        link: "http://readycommerce.cloud/",
+        link: "https://readyshop.cloud/index.php",
         categories: ["php mysql"]
     }
 ]
