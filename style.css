@@ -307,3 +307,8 @@ a.resumeBtn {
     font-size: 28px;
     border-radius: 3px;
 }
+@media only screen and (max-width: 500px) {
+    .workProjects {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
