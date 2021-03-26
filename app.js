@@ -93,7 +93,7 @@ const allProjects = [
         name: "Ready Shop Back-End",
         image: "readyshop.png",
         link: "https://raw.githubusercontent.com/shamimshakir/portfolio/main/images/readyshop.png",
-        categories: ["php mysql"]
+        categories: ["php mysql","Javascript"]
     },
     {
         id: 12,
@@ -114,7 +114,14 @@ const allProjects = [
         name: "Readyshop portfolio",
         image: "readycommerce.cloud.png",
         link: "https://readyshop.cloud/index.php",
-        categories: ["php mysql"]
+        categories: ["php mysql", "Javascript"]
+    },
+    {
+        id: 15,
+        name: "Domain purchase website",
+        image: "nextDomain.png",
+        link: "https://domain.nextech.cloud/index.php",
+        categories: ["php mysql", "Javascript"]
     }
 ]
 const projectCategories = allProjects.reduce(
