@@ -193,7 +193,7 @@ function Portfolio(){
                 </ul>
             </div>
             <div className="workProjects">
-                {projects.map(project => {
+                {projects.reverse().map(project => {
                     return <a key={project.id} target="_blank" href={project.link} className="singleWorkProject">
                         <img src={`images/${project.image}`} alt=""/>
                         <div className="singleWorkProjectInfo">
